@@ -1,0 +1,40 @@
+#body {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+}
+
+#Title {
+  font-family: 'Libre Barcode 128 Text', cursive;
+  font-size: 60px;
+}
+
+/* #body {
+  font-family: 'Libre Barcode 128 Text', cursive;
+  font-size: 60px;
+} */
+
+body {
+  background-color: #ffffcc;
+}
+
+.boxedGenres {
+  padding: 10px;
+  border: 8px solid #ffd9b3;
+  float:left;
+  color: #1a1a1a;
+}
+
+#Genres {
+
+}
+
+.Map {
+
+}
+
+.Info {
+  float:right;
+  padding: 10px;
+  border: 8px solid #ffd9b3;
+  color: #1a1a1a;
+}

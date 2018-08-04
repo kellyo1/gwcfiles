@@ -1,0 +1,108 @@
+
+h1 {
+  solid #f00;
+  font-family: 'Gaegu', cursive;
+  font-size 30px;
+  padding:5px;
+
+}
+
+#grouppic {
+  padding: 5px;
+  display: inline;
+  float: right;
+}
+
+#BTSTitle {
+  padding: 5px;
+  display: inline;
+  color: white;
+  text-align: center;
+}
+
+#AboutTitle {
+  padding: 5px;
+  display: inline;
+  border-style: dotted white;
+  border-width: medium;
+  text-align: center;
+}
+
+
+
+#Jin {
+  padding: 5px;
+  display: inline;
+  float: left;
+}
+
+#Suga {
+    padding: 5px;
+    display: inline;
+    float: right;
+}
+
+#J-Hope {
+  padding: 5px;
+  display: inline;
+  float: left;
+}
+
+#RM {
+    padding: 5px;
+    display: inline;
+    float: right;
+}
+
+#Jimin {
+  padding: 5px;
+  display: inline;
+  float: left;
+}
+
+#V {
+  padding: 5px;
+  display: inline;
+    float: left;
+}
+
+#Jungkook {
+  padding: 5px;
+  display: inline;
+  float: right;
+}
+
+
+#AboutSection {
+  text-align: center;
+}
+
+.buttonCenter {
+  height: 100px;
+  width: 200px;
+  text-align: center;
+  border-radius: 12px;
+}
+
+#Members {
+
+}
+
+#Discography {
+
+
+}
+
+body{
+  solid #f00;
+  font-family: 'Gaegu', cursive, h1;
+  font-size: 25px;
+  padding:5px;
+  background-color: #ffe6cc;
+}
+
+.ImageBorder
+{
+    padding: 2px;
+    border: 3px solid white;
+}
